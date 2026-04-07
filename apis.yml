@@ -1,7 +1,12 @@
 aid: country-financial
-url: https://raw.githubusercontent.com/api-evangelist/country-financial/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/country-financial/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.country-financial.com
+description: >-
+  Country Financial is a group of insurance and financial services companies providing
+  auto, home, life, business, and farm insurance, as well as investment and retirement
+  planning services.
