@@ -1,6 +1,6 @@
 aid: country-financial
 name: COUNTRY Financial
-x-type: company
+kind: company
 description: >-
   COUNTRY Financial is the marketing name for an Illinois-headquartered family
   of affiliated insurance and financial services companies that includes
