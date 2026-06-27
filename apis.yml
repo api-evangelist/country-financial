@@ -71,7 +71,7 @@ common:
     url: https://login.countryfinancial.com/
   - type: PrivacyPolicy
     url: https://www.countryfinancial.com/en/privacy-statement.html
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.countryfinancial.com/en/terms-of-use.html
   - type: Facebook
     url: https://www.facebook.com/countryfinancial
