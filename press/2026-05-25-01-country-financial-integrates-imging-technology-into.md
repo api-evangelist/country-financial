@@ -1,7 +1,9 @@
 ---
 title: COUNTRY Financial Integrates IMGING Technology into ...
 url: https://www.lovelandinnovations.com/blog/country-financial-insurance-case-study/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Country Financial" press release artificial intelligence'
 position: 1
 source: serpapi-google
