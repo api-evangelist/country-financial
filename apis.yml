@@ -47,7 +47,7 @@ tags:
   - Commercial Insurance
   - Crop Insurance
   - Farm Insurance
-  - Financial-Services
+  - Financial Services
   - Home Insurance
   - Illinois
   - Insurance
@@ -72,6 +72,7 @@ tags_raw:
   - Mutual Insurance
   - Retirement Planning
   - Trust Services
+  - Financial-Services
 created: '2026-03-23'
 modified: '2026-04-28'
 specificationVersion: '0.23'
