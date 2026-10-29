@@ -1,4 +1,4 @@
-# COUNTRY Financial (country-financial)
+# COUNTRY Financial
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-COUNTRY Financial is an Illinois-headquartered family of insurance and financial services companies offering auto, home, life, farm, crop, and commercial insurance along with investment, retirement, and trust services through a captive agent network in 19 U.S. states. COUNTRY does not publish a public developer API.
+COUNTRY Financial is the marketing name for an Illinois-headquartered family of affiliated insurance and financial services companies that includes COUNTRY Life Insurance Company, COUNTRY Mutual Insurance Company, COUNTRY Casualty Insurance Company, COUNTRY Preferred Insurance Company, and related subsidiaries based in Bloomington, IL. Founded in 1925 by Illinois Agricultural Association members, COUNTRY today offers auto, home, life, farm, crop, and commercial insurance along with investment, retirement planning, and trust services through a captive agent network in 19 U.S. states. COUNTRY does not publish a public developer API; partner and agency integrations occur through internal agency systems.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/country-financial/refs/heads/main/apis.yml)
+**Areas:** Agribusiness · Auto Insurance · Bloomington · Commercial Insurance · Crop Insurance · Farm Insurance · Financial Services · Home Insurance · Illinois · Insurance · Investment · Life Insurance
 
-## Scope
+## COUNTRY Financial on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Internal
-- **x-type:** company
+Everything profiled for COUNTRY Financial is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/country-financial/](https://apis.io/providers/country-financial/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Agribusiness, Auto Insurance, Bloomington, Commercial Insurance, Crop Insurance, Farm Insurance, Financial Services, Home Insurance, Illinois, Insurance, Investments, Life Insurance, Mutual Insurance, Retirement Planning, Trust Services
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (2)
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Country Financial Domain Security](https://apis.io/security/country-financial/country-financial-domain-security/)
+- [Country Financial Vulnerability Disclosure](https://apis.io/security/country-financial/country-financial-vulnerability-disclosure/)
 
-No public APIs have been documented. COUNTRY Financial integrations occur through captive agent and internal systems.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.countryfinancial.com/)
-- [Insurance](https://www.countryfinancial.com/en/insurance.html)
-- [Investments](https://www.countryfinancial.com/en/investments.html)
-- [Retirement](https://www.countryfinancial.com/en/retirement.html)
-- [About Us](https://www.countryfinancial.com/en/about-us.html)
-- [Careers](https://www.countryfinancial.com/en/careers.html)
-- [Agent Locator](https://www.countryfinancial.com/en/representative-locator.html)
-- [Claims Center](https://www.countryfinancial.com/en/claims-center.html)
-- [Login](https://login.countryfinancial.com/)
-- [LinkedIn](https://www.linkedin.com/company/country-financial)
+- [Terms of service](https://www.countryfinancial.com/en/terms-of-use.html)
+- [Privacy policy](https://www.countryfinancial.com/en/privacy-statement.html)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 7.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.0** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/country-financial/](https://apis.io/providers/country-financial/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for COUNTRY Financial: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/country-financial/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
